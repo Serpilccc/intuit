@@ -1,21 +1,22 @@
+body
+ {
+ color:black;
+ margin-left: auto;
+    margin-right: auto;
+    width: 20em;}
+
+
+
 header
-{
+{	text-align:right;
     margin-left:23px;
 	width:730px;
 	
 }
 
 hearder,h3,
-
 {margin-left:auto;
-image-align:center;
 }
-
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-
 
 
 form,
@@ -38,4 +39,18 @@ footer
 
     }
 
+footer,p,
+{text-align:center;
+}
+
+
+button
+{
+    background-color: blue;
+}
+bt
+{
+color:black;
+
+}
 
