@@ -2,12 +2,19 @@ header
 {
     margin-left:23px;
 	width:730px;
+	image:center;
+}
+
+hearder,h3,
+
+{margin-left:auto;
 }
 
 
 form,
 fieldsheet,
 {
+	text-align: center;
 	background-color:white;
   	 margin-left: auto;
     margin-right: auto;
@@ -16,7 +23,9 @@ fieldsheet,
 
 
 footer
- {margin-left: auto;
+
+ {text-align:center;
+ margin-left: auto;
     margin-right: auto;
     width: 20em;
 
